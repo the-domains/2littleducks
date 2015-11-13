@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: We have been so lucky to film all kinds of different weddings and Andrew and S
-datePublished: '2015-11-13T21:22:16.249Z'
-dateModified: '2015-11-10T07:49:20.029Z'
+datePublished: '2015-11-13T21:22:24.227Z'
+dateModified: '2015-11-13T21:22:16.249Z'
 author: []
 title: ANDREW AND SHRUTI – INDIAN / SCOTTISH WEDDING
 authors: []
