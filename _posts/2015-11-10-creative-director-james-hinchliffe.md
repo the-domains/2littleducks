@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ' James gets to do the fun things like film with cameras and crash remote drones.  James graduated from Bradford University wit'
-datePublished: '2015-11-13T21:25:22.130Z'
-dateModified: '2015-11-13T21:25:16.120Z'
+datePublished: '2015-11-13T21:25:36.410Z'
+dateModified: '2015-11-13T21:25:22.130Z'
 author: []
 title: Creative Director James Hinchliffe
 authors: []
