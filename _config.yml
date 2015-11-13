@@ -1,12 +1,17 @@
 analytics: {}
 color:
-  brandColors: []
+  brandColors:
+    - '#000000'
+    - '#51671E'
+    - '#000000'
+    - '#98C038'
+    - '#C8E098'
   brandStrength: 0.6300263323355466
   lightness: 0.11533724144101143
   rhythmicContrast: 0.18156926915980875
   saturation: 0.3172293184325099
 cta: {}
-layout_spectrum: 1
+layout_spectrum: 0.9870492110494524
 name: 2littleducks
 opengraph: {}
 purpose: []
