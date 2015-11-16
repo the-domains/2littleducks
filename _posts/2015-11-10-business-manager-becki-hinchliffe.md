@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://2-little-ducks.com/meet-our-team/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ' '
-datePublished: '2015-11-13T21:25:36.674Z'
-dateModified: '2015-11-10T07:48:20.828Z'
+datePublished: '2015-11-16T11:35:04.419Z'
+dateModified: '2015-11-16T11:34:30.564Z'
 author: []
 title: Business Manager Becki Hinchliffe
+sourcePath: _posts/2015-11-10-business-manager-becki-hinchliffe.md
+published: true
 authors: []
 publisher:
   name: 2-little-ducks.com
   domain: 2-little-ducks.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-10-business-manager-becki-hinchliffe.md
-published: true
+url: business-manager-becki-hinchliffe/index.html
 _context: 'http://schema.org'
 _type: Article
 
