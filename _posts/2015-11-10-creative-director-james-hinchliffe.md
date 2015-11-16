@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://2-little-ducks.com/meet-our-team/'
 inLanguage: null
 starred: false
 keywords: []
 description: ' James gets to do the fun things like film with cameras and crash remote drones.  James graduated from Bradford University wit'
-datePublished: '2015-11-13T21:25:36.410Z'
-dateModified: '2015-11-13T21:25:22.130Z'
+datePublished: '2015-11-16T11:34:50.206Z'
+dateModified: '2015-11-16T11:34:43.379Z'
 author: []
 title: Creative Director James Hinchliffe
+sourcePath: _posts/2015-11-10-creative-director-james-hinchliffe.md
+published: true
 authors: []
 publisher:
   name: 2-little-ducks.com
   domain: 2-little-ducks.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-10-creative-director-james-hinchliffe.md
-published: true
+url: creative-director-james-hinchliffe/index.html
 _context: 'http://schema.org'
 _type: Article
 
