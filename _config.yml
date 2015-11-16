@@ -1,4 +1,19 @@
-analytics: {}
+name: 2littleducks
+favicon: null
+layout_spectrum: 0.9870492110494524
+typography_spectrum: 0.174549
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -6,13 +21,8 @@ color:
     - '#000000'
     - '#98C038'
     - '#C8E098'
-  brandStrength: 0.6300263323355466
+  brandStrength: 1
   lightness: 0.11533724144101143
-  rhythmicContrast: 0.18156926915980875
   saturation: 0.3172293184325099
-cta: {}
-layout_spectrum: 0.9870492110494524
-name: 2littleducks
-opengraph: {}
+  rhythmicContrast: 0.18156926915980875
 purpose: []
-typography_spectrum: 0.174549
