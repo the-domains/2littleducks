@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[2littleducks]]></title>
         <description><![CDATA[2littleducks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/2littleducks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 14:25:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 14:39:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/2littleducks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to 2 Little Ducks Wedding Videography]]></title>
+            <description><![CDATA[<article><h1>Welcome to 2 Little Ducks Wedding Videography</h1><img src="http://2-little-ducks.com/wp-content/uploads/2014/10/5reasons-e1432893628885.jpg"></article>]]></description>
+            <link>https://thegrid.ai/2littleducks/welcome-to-2-little-ducks-wedding-videography/index.html</link>
+            <guid isPermaLink="false">77a56025-7f57-447f-a895-d78019adbf7a</guid>
+            <pubDate>Tue, 17 Nov 2015 14:39:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First Post]]></title>
             <description><![CDATA[<article><h1>My First Post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/99cb8a14-bfed-46e1-9a44-5503b8a7d432.jpg"></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>https://thegrid.ai/2littleducks/my-first-post/index.html</link>
             <guid isPermaLink="false">eb8d9034-e0d3-41f2-bf69-7b413f42ea9b</guid>
             <pubDate>Mon, 16 Nov 2015 14:25:49 GMT</pubDate>
         </item>
