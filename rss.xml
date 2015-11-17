@@ -4,8 +4,15 @@
         <description><![CDATA[2littleducks]]></description>
         <link>https://thegrid.ai/2littleducks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 14:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 14:53:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/2littleducks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[video test]]></title>
+            <description><![CDATA[<video src="blob:https%3A//www.youtube.com/7d0e099b-aaae-485f-9d05-0ed54e4bc29f"></video>]]></description>
+            <link>https://www.youtube.com/watch?v=0Dpya9oNJUE</link>
+            <guid isPermaLink="false">d3e001bb-0c6a-4793-91a7-3a8032badd8d</guid>
+            <pubDate>Tue, 17 Nov 2015 14:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://2-little-ducks.com/wp-content/uploads/2015/07/multiservice.00_02_21_01.Still003.jpg" alt="" title="">]]></description>
