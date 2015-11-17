@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We promise to edit a\_3 minute highlight video for all our wedding packages within two weeks of the service. So no waiting months before you see"
-datePublished: '2015-11-17T14:41:25.291Z'
-dateModified: '2015-11-17T14:41:07.968Z'
+datePublished: '2015-11-17T14:46:41.574Z'
+dateModified: '2015-11-17T14:45:38.107Z'
 author: []
 title: Wedding Packages
+sourcePath: _posts/2015-11-17-wedding-packages.md
+published: true
 authors: []
 publisher:
   name: 2-little-ducks.com
   domain: 2-little-ducks.com
   url: null
   favicon: null
-sourcePath: _posts/2015-11-17-wedding-packages.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
